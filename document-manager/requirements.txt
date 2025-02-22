@@ -1,0 +1,19 @@
+python-dotenv
+pandas
+fastapi
+uvicorn
+pydantic[email]
+python-multipart
+sqlalchemy
+psycopg2
+pymilvus
+openai
+pdfplumber
+tabulate
+transformers
+levenshtein
+langchain-text-splitters
+torch==2.5.1 --index-url https://download.pytorch.org/whl/cu121
+sentence-transformers
+sentencepiece
+tiktoken

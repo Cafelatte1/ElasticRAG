@@ -1,0 +1,13 @@
+python-dotenv
+pandas
+fastapi
+uvicorn
+pydantic[email]
+python-multipart
+sqlalchemy
+psycopg2
+pyjwt
+passlib
+bcrypt==4.0.1
+openai
+requests

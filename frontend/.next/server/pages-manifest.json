@@ -1,0 +1,7 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/ai-search": "pages/ai-search.js",
+  "/ai-search/document": "pages/ai-search/document.js"
+}
