@@ -9,7 +9,7 @@
 
 ## 모듈 구분
 - **RAG 아키텍처 및 LLM**: 업무 경험을 통한 주요 이슈 탐색 및 솔루션 알고리즘 적용
-- **프론트엔드**: [Cursor AI IDE](https://www.cursor.com/) 활용 프론드엔드 구축
+- **프론트엔드**: [Cursor AI](https://www.cursor.com/)를 활용하여 AI로만 프론트 구축
 - **백엔드**: FastAPI 기반 백엔드 구축
 
 ## 데모 영상
